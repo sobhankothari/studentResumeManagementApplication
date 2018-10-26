@@ -1,4 +1,4 @@
-This is the application to make the Student resume by gathering his/her information.
+This is the application to make the Student resume by gathering information given by him/her and then getting it verified by some competent authority to check its genuineness.
 
 # How to contribute?
 1) Clone this repo.
