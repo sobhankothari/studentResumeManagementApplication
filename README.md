@@ -1,4 +1,4 @@
-This is the application to make the Student resume by gathering his/her information.
+This is the application to make the Student resume based on details shared by hip on the app and then get the same details verified by some competent authority to insure its genuineness. 
 
 # How to contribute?
 1) Clone this repo.
